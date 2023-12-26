@@ -36,7 +36,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Mentefacto',
+        titulo: 'Oratoria',
         desarrolloContenidos: true,
         subMenu: [
           {
